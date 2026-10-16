@@ -1,0 +1,26 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1280" height="460" viewBox="0 0 1280 460" role="img" aria-labelledby="title desc">
+<title id="title">Tsubasa — Building with code. Growing in the field.</title>
+<desc id="desc">Layered green mountains, a soft morning sun, and curved rows of farmland.</desc>
+<defs>
+ <linearGradient id="sky" x2="0" y2="1"><stop stop-color="#edf4ef"/><stop offset="1" stop-color="#faf7e9"/></linearGradient>
+ <linearGradient id="field" x2="0" y2="1"><stop stop-color="#557357"/><stop offset="1" stop-color="#203e33"/></linearGradient>
+ <clipPath id="frame"><rect width="1280" height="460" rx="16"/></clipPath>
+</defs>
+<g clip-path="url(#frame)">
+<rect width="1280" height="460" fill="url(#sky)"/>
+<circle cx="1077" cy="101" r="43" fill="#ead69e"/>
+<path d="M0 297L124 228 201 261 348 189 435 249 536 212 663 276 801 173 915 243 1034 164 1168 250 1280 211V460H0Z" fill="#b7c9b9"/>
+<path d="M0 326L134 277 253 318 389 265 540 321 682 255 800 295 958 217 1085 282 1188 245 1280 289V460H0Z" fill="#789a83"/>
+<path d="M0 353Q172 304 340 354T670 342Q865 280 1020 332T1280 321V460H0Z" fill="#416b56"/>
+<path d="M0 379Q292 322 584 379T1280 365V460H0Z" fill="url(#field)"/>
+<g fill="none" stroke="#93ac75" stroke-width="3" opacity=".58">
+<path d="M-50 408Q270 347 590 401T1330 389"/><path d="M-50 433Q270 369 590 425T1330 414"/><path d="M-50 460Q270 391 590 452T1330 441"/>
+</g>
+<g font-family="DejaVu Sans, sans-serif" fill="#203e33">
+<text x="70" y="72" font-size="14" letter-spacing="4">CODE / NATURE / EVERYDAY IDEAS</text>
+<text x="65" y="157" font-size="72" font-weight="700" letter-spacing="-3">Tsubasa.</text>
+<text x="70" y="202" font-size="23">Building with code. Growing in the field.</text>
+<text x="71" y="239" font-size="14" letter-spacing="2" fill="#506c59">AI · WEB DEVELOPMENT · AGRICULTURE</text>
+</g>
+</g>
+</svg>
